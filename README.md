@@ -1,0 +1,1 @@
+# Static-member-in-OOP
